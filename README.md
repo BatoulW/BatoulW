@@ -13,6 +13,8 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/batoulalwafaie).
 ![](https://img.shields.io/badge/JAVA-informational?style=flat&logo=JAVA&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Sever&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=Android-studio&logoColor=white&color=grey)
+
 
 <a href="https://github.com/BatoulW/OnlineBookingSys">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BatoulW&repo=OnlineBookingSys&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -20,6 +22,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/batoulalwafaie).
 
 <a href="https://github.com/BatoulW/FormRegistration">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BatoulW&repo=FormRegistration&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/BatoulW/UniversityBusApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BatoulW&repo=UniversityBusApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br> <br>
 
