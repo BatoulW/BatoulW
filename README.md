@@ -1,19 +1,19 @@
 
 # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Batoul Alwafaie, computer science fresh graduate with passion to web development.<br>
-I’m constantly striving to improve my techniques and expand my skills.<br>
-You can find me on [LinkedIn](https://www.linkedin.com/in/batoulalwafaie).
+I'm Batoul Alwafaie, a Software Developer.<br>
+I’m passionate about learning new technologies and tools in web development field.<br>
+You can find me on [![](https://img.shields.io/badge/LinkedIn-informational?url=https://www.linkedin.com/in/batoulalwafaie&style=flat&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/batoulalwafaie).
 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/PHP-informational?style=flat&logo=PHP&logoColor=white&color=blue)
+![](https://img.shields.io/badge/C_Sharp-informational?style=flat&logo=Csharp&logoColor=white&color=grey)
+![](https://img.shields.io/badge/JAVA-informational?style=flat&logo=JAVA&logoColor=white&color=blue)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=grey)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Server&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=white&color=grey)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=grey)
-![](https://img.shields.io/badge/JAVA-informational?style=flat&logo=JAVA&logoColor=white&color=blue)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=grey)
-![](https://img.shields.io/badge/Microsoft_SQL_Server-informational?style=flat&logo=Microsoft-SQL-Sever&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=Android-studio&logoColor=white&color=grey)
 
 
 <a href="https://github.com/BatoulW/OnlineBookingSys">
